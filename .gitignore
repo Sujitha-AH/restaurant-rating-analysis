@@ -1,9 +1,6 @@
-final_cleaned_dataset.csv
-cleaned_data.csv
-zomato.csv
-cleaned_data.csv 
-final_cleaned_dataset.csv 
-zomato.csv 
-cleaned_data.csv
-final_cleaned_dataset.csv
-zomato.csv
+*.csv
+*.xlsx
+*.zip
+*.rar
+*.json
+*.pkl
